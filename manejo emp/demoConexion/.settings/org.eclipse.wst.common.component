@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="demoConexion">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/data"/>
+                
+        <property name="context-root" value="demoConexion"/>
+                
+        <property name="java-output-path" value="/demoConexion/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
